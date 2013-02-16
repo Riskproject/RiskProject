@@ -1,0 +1,100 @@
+<class-diagram version="1.0.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <package id="1" corner="BOTTOM_RIGHT" language="java" name="controller" project="Risk" file="/Risk/src/controller" 
+    binary="false">    
+    <position height="54" width="120" x="95" y="39"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="2" corner="BOTTOM_RIGHT" language="java" name="org.risk.core" project="Risk" 
+    file="/Risk/src/org/risk/core" binary="false">    
+    <position height="-1" width="-1" x="764" y="51"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="3" corner="BOTTOM_RIGHT" language="java" name="org.risk.model" project="Risk" 
+    file="/Risk/src/org/risk/model" binary="false">    
+    <position height="-1" width="-1" x="180" y="287"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="4" corner="BOTTOM_RIGHT" language="java" name="org.risk.model.army" project="Risk" 
+    file="/Risk/src/org/risk/model/army" binary="false">    
+    <position height="-1" width="-1" x="698" y="208"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="5" corner="BOTTOM_RIGHT" language="java" name="org.risk.model.battle" project="Risk" 
+    file="/Risk/src/org/risk/model/battle" binary="false">    
+    <position height="-1" width="-1" x="719" y="395"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="6" corner="BOTTOM_RIGHT" language="java" name="org.risk.model.Utility" project="Risk" 
+    file="/Risk/src/org/risk/model/Utility" binary="false">    
+    <position height="-1" width="-1" x="188" y="462"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <package id="7" corner="BOTTOM_RIGHT" language="java" name="org.risk.view" project="Risk" 
+    file="/Risk/src/org/risk/view" binary="false">    
+    <position height="-1" width="-1" x="486" y="48"/>    
+    <display autosize="true" stereotype="true"/>  
+  </package>  
+  <dependency id="8">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="9">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="10">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="11">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="12">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

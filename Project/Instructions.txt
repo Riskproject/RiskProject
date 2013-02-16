@@ -1,0 +1,6 @@
+Team: 10
+
+Instructions:
+
+1. In order to run the application JUNG JAR files 
+   must be added in to the project.
