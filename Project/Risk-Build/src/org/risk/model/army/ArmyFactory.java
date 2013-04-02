@@ -22,7 +22,7 @@ import org.risk.model.Technology;
 /**
  * The class is responsible for which type of the army to call.
  * 
- * @author Arij
+ * 
  * 
  */
 public class ArmyFactory {

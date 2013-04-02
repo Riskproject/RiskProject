@@ -23,7 +23,7 @@ import javax.xml.bind.annotation.XmlType;
 /**
  * The instance of this class represents Army.
  * 
- * @author Arij
+ * 
  *
  */
 @XmlType

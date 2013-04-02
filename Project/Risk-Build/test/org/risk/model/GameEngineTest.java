@@ -29,7 +29,7 @@ import org.risk.model.army.ArmyFactory;
 
 /**
  * The test class for GameEngine class which test its various methods
- * @author Omer
+ * 
  *
  */
 public class GameEngineTest extends TestCase {

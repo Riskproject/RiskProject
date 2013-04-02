@@ -17,7 +17,7 @@
 package org.risk.model.Utility;
 /**
  * An instance of this class represents divide by zero exception. It should be thrown when the number is divided by zero.
- * @author Omer
+ *
  *
  */
 public class DivideByZeroException extends Exception {

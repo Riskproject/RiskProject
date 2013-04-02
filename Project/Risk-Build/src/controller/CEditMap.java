@@ -33,7 +33,7 @@ import org.risk.view.Game;
 /**
  * The instance of this class represents the controller Edit Map class
  * 
- * @author Arij
+ * 
  * 
  */
 public class CEditMap {

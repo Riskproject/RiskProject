@@ -25,7 +25,7 @@ import org.risk.model.army.MechanizedInfantry;
 import org.risk.model.army.Army;
 /**
  * The instance of this class creates the battle and in builder pattern it acts as a director
- * @author Arij
+ *
  *
  */
 public class BattleGround implements Runnable {

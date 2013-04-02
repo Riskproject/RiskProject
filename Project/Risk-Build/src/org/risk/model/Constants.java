@@ -34,7 +34,7 @@ import edu.uci.ics.jung.visualization.layout.PersistentLayout.Point;
 /**
  * This Class Stores all the constant values for countryID and Colors etc.
  * 
- * @author Arij
+ * 
  * 
  */
 public class Constants {

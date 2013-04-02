@@ -20,7 +20,7 @@ import org.risk.model.army.Army;
 import org.risk.model.army.ArmyDetail;
 /**
  * The instance of this Class will be used to modify number of armies during the battle
- * @author Arij
+ * 
  *
  */
 public class BattleArmy {

@@ -27,7 +27,7 @@ import org.risk.view.LogWindow;
 
 /**
  *  The Class is used to maintain the log of the game.
- * @author Arij
+ * 
  * 
  */
 public class Logger {

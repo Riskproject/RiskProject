@@ -22,7 +22,7 @@ import junit.framework.TestCase;
 import org.junit.Test;
 /**
  * Test class to Test Army Factory
- * @author Omer
+ * 
  *
  */
 public class ArmyFactoryTest extends TestCase{

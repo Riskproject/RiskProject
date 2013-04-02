@@ -49,7 +49,7 @@ import java.awt.event.WindowEvent;
  * The instance of this class represent Map editor where user can edit an
  * existing map
  * 
- * @author Arij
+ * 
  * 
  */
 public class EditMap extends JFrame {

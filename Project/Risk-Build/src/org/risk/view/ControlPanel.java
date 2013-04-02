@@ -47,7 +47,7 @@ import controller.CControlPanel;
  * This class contains the GUI of controlling the resources, technology and
  * Simulation Flow.
  * 
- * @author Arij
+ * 
  * 
  */
 public class ControlPanel extends JFrame {

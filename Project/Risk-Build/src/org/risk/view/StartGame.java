@@ -31,7 +31,7 @@ import java.awt.event.ActionListener;
  * user can choose between creating a map, loading a map, or other available
  * options
  * 
- * @author Arij
+ * 
  * 
  */
 public class StartGame extends JFrame {

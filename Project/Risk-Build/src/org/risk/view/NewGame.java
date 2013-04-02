@@ -40,7 +40,7 @@ import java.util.Vector;
 /**
  * The instance of this class represents New game form
  * 
- * @author Arij
+ * 
  * 
  */
 public class NewGame extends JFrame {

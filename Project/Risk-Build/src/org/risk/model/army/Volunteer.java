@@ -19,7 +19,7 @@ package org.risk.model.army;
 /**
  * The class sets the concrete values for army type Volunteer.
  * 
- * @author Arij
+ * 
  * 
  */
 public class Volunteer extends Army {

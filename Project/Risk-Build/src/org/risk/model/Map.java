@@ -33,7 +33,7 @@ import javax.xml.bind.annotation.adapters.XmlAdapter;
  * the list of Continents, States, Countries, and edges. This class also applies
  * Singleton Design Pattern
  * 
- * @author Omer
+ * 
  */
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)

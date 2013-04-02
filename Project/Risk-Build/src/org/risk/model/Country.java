@@ -46,7 +46,7 @@ import org.risk.model.army.Volunteer;
  * An instance of this class represents a country, which will act as a player in
  * the game. A country is responsible for executing a turn in the game.
  * 
- * @author Omer
+ * 
  * 
  */
 @XmlType

@@ -28,7 +28,7 @@ import org.risk.model.army.Army;
 
 /**
  * The test class for State class which test the setIsCapital method
- * @author Zhang
+ * 
  */
 public class StateTest extends TestCase {
 

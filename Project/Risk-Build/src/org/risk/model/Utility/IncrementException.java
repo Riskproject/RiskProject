@@ -17,7 +17,7 @@
 package org.risk.model.Utility;
 /**
  * An instance of this class represents Increment exception. It should be thrown when increment is negative.
- * @author Omer
+ * 
  *
  */
 public class IncrementException extends Exception {

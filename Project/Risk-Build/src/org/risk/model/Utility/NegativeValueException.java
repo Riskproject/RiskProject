@@ -17,7 +17,7 @@
 package org.risk.model.Utility;
 /**
  * An instance of this class represents negative value exception.It should be thrown when value of a variable is negative.
- * @author Omer
+ * 
  *
  */
 public class NegativeValueException extends Exception {

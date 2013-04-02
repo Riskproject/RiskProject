@@ -31,7 +31,7 @@ import org.risk.view.NewCountries;
 /**
  * This class is responsible of adding new countries to existing map.
  * 
- * @author Arij
+ * 
  * 
  */
 public class CNewCountries {

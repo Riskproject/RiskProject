@@ -24,7 +24,7 @@ import org.risk.model.Utility.NegativeValueException;
 /**
  * This class sets and gets the concrete Army type
  * 
- * @author Arij
+ * 
  *  
  */
 public class ArmyDetail {

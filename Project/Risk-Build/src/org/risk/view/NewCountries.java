@@ -38,7 +38,7 @@ import controller.CNewCountries;
 /**
  * This class build the GUI for the new country after choosing to upload a map.
  * 
- * @author Arij
+ *
  * 
  */
 public class NewCountries extends JFrame {

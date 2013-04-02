@@ -51,7 +51,7 @@ import edu.uci.ics.jung.visualization.control.ScalingControl;
 /**
  * Displays the GUI for the Game
  * 
- * @author Arij
+ * 
  * 
  */
 public class Game extends JFrame {

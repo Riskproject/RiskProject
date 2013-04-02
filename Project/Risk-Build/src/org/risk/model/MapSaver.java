@@ -27,7 +27,7 @@ import org.risk.view.Game;
  * An instance of this class gets the path from the controller and converts the
  * map object to XML by calling related methods.
  * 
- * @author Kian
+ *
  * 
  */
 public class MapSaver {

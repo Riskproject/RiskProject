@@ -35,7 +35,7 @@ import org.risk.view.StartGame;
 /**
  * The instance of this class would represent the controller for New Game Class
  * 
- * @author Arij
+ * 
  * 
  */
 public class CNewGame {

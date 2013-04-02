@@ -22,7 +22,7 @@ import org.risk.model.Logger;
 import org.risk.model.State;
 /**
  * The instance of this Class is used to apply multiple battles
- * @author Arij
+ * 
  *
  */
 public class MultipleBattleFronts {

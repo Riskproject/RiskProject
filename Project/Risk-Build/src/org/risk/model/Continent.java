@@ -27,7 +27,7 @@ import javax.xml.bind.annotation.XmlType;
 /**
  * The Instance of this class represents continent.
  * 
- * @author Omer
+ * 
  * 
  */
 @XmlType

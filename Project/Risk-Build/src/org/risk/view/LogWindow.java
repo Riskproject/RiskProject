@@ -33,7 +33,7 @@ import java.awt.Color;
 /**
  * This class has the GUI of the log window
  * 
- * @author Arij
+ * 
  * 
  */
 public class LogWindow extends JFrame {

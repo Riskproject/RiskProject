@@ -26,7 +26,7 @@ import org.risk.model.*;
 
 /**
  * The test class for Continent class which test the addState method
- * @author Zhang
+ * 
  */
 public class ContinentTest extends TestCase {
 	

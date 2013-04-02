@@ -22,7 +22,7 @@ import junit.framework.TestCase;
 import org.junit.Test;
 /**
  * Test Class to Test Negative value Exception
- * @author Omer
+ * 
  *
  */
 public class NegativeValueExceptionTest extends TestCase {

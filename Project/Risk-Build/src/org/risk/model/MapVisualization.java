@@ -48,7 +48,7 @@ import edu.uci.ics.jung.visualization.renderers.Renderer;
 /**
  * This Class is used to Create the map on the screen using JUNG Class Library
  * 
- * @author Arij
+ * 
  * 
  */
 public class MapVisualization implements Observer {

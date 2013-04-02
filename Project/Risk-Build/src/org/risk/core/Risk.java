@@ -25,7 +25,7 @@ import org.risk.view.StartGame;
 import org.risk.model.*;
 /**
  * The instance of this class is used to run the application. It has main method in it.
- * @author Omer
+ *
  *
  */
 public class Risk {

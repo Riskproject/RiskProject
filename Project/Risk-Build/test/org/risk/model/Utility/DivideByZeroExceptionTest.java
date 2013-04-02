@@ -24,7 +24,7 @@ import org.junit.internal.runners.TestMethod;
 /**
  * Test class is use to Test Divide by zero Exception
  * 
- * @author Omer
+ * 
  *
  */
 public class DivideByZeroExceptionTest extends TestCase {

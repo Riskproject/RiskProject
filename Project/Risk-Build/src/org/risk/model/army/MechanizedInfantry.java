@@ -19,7 +19,7 @@ package org.risk.model.army;
 /**
  * The class sets the concrete values for army type Mechanized Infantry.
  * 
- * @author Arij
+ * 
  *
  */
 public class MechanizedInfantry extends Army{

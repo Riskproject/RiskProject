@@ -22,7 +22,7 @@ import org.risk.model.State;
 import org.risk.model.army.ArmyDetail;
 /**
  * This is the abstract class for Builder pattern
- * @author Arij
+ * 
  *
  */
 public abstract class BattleArmyBuilder {

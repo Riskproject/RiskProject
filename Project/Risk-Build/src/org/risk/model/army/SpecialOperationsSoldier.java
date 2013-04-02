@@ -19,7 +19,7 @@ package org.risk.model.army;
 /**
  * The class sets the concrete values for army type Special Operations Soldier.
  * 
- * @author Arij
+ * 
  *
  */
 public class SpecialOperationsSoldier extends Army{

@@ -26,7 +26,7 @@ import org.risk.model.Map;
 /**
  * This class provides basic function for marshalling and unmarshalling
  * 
- * @author Kian
+ * 
  */
 public class XmlHelper {
 

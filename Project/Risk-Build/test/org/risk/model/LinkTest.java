@@ -23,7 +23,7 @@ import org.risk.model.*;
 
 /**
  * The test class for Link class which test the getSourceState and getDestintionState method
- *	@author Zhang
+ *	
  */
 
 public class LinkTest extends TestCase {

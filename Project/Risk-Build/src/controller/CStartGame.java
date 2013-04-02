@@ -33,7 +33,7 @@ import org.risk.model.MapLoader;
  * Controller for StartGame view An instance of this class can checks the data
  * provided to it by view and performs an appropriate action
  * 
- * @author Arij
+ * 
  */
 public class CStartGame {
 

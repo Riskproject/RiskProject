@@ -28,7 +28,7 @@ import org.risk.model.army.ArmyDetail;
 
 /**
  * The test class for Country class which test the getMyStateList method
- * @author Zhang
+ * 
  */
 public class CountryTest extends TestCase {
 	

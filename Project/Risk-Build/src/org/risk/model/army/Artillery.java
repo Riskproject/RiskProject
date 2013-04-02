@@ -19,7 +19,7 @@ package org.risk.model.army;
 /**
  * The class sets the concrete values for army type Artillery.
  * 
- * @author Arij
+ * 
  * 
  */
 public class Artillery extends Army {

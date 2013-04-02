@@ -20,7 +20,7 @@ import org.risk.model.Logger;
 import org.risk.model.State;
 /**
  * The instance of this Class is used to generate attacking state army
- * @author Arij
+ * 
  *
  */
 public class AttackingStateBattleArmyBuilder extends BattleArmyBuilder {

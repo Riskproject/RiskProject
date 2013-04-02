@@ -20,7 +20,7 @@ package org.risk.model;
  * The instance of this Class is used to hold the id and name for State,
  * Continent, etc. beforre storing it in any component like JCombo etc.
  * 
- * @author Arij
+ * 
  * 
  */
 public class Item {

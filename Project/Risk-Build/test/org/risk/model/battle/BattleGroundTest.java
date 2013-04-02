@@ -30,7 +30,7 @@ import junit.framework.TestCase;
 
 /**
  * Test class for testing Battle Ground
- * @author Omer
+ * 
  *
  */
 public class BattleGroundTest extends TestCase {

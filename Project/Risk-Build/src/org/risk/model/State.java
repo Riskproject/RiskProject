@@ -45,7 +45,7 @@ import org.risk.model.battle.BattleArmy;
 /**
  * This class represents states of the map
  * 
- * @author Kian
+ * 
  * 
  */
 @XmlType

@@ -19,7 +19,7 @@ package org.risk.model.army;
 /**
  * The class sets the concrete values for army type Heavy Precision Army.
  * 
- * @author Arij
+ *
  *
  */
 public class HeavyPrecisionArtillery extends Army{

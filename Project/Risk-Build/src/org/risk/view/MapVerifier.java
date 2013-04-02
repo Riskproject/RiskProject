@@ -32,7 +32,7 @@ import controller.CMapVerifier;
  * An instance of this class represents the view in which the user will be able
  * to see whether or not a selected map meets several conditions
  * 
- * @author Kian
+ * 
  * 
  */
 public class MapVerifier extends JFrame {

@@ -27,7 +27,7 @@ import javax.xml.bind.annotation.XmlType;
 /**
  * The class hold the instance of Technology.
  * 
- * @author Arij
+ * 
  * 
  */
 @XmlType

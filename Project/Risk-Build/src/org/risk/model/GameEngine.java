@@ -53,7 +53,7 @@ import controller.CGame;
  * remove functionalities on Map Object. It's responsible for the entire
  * simulation flow.
  * 
- * @author Omer
+ * 
  * 
  */
 public class GameEngine {

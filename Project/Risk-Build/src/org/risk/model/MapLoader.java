@@ -27,7 +27,7 @@ import org.risk.view.MapVerifier;
  * An instance of this class gets the XML from the controller and converts it to
  * Map object by calling related methods.
  * 
- * @author Kian
+ * 
  * 
  */
 public class MapLoader {

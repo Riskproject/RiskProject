@@ -21,7 +21,7 @@ import org.risk.model.State;
 import org.risk.model.army.ArmyDetail;
 /**
  * The instance of ths class represent target state army builder 
- * @author Arij
+ *
  *
  */
 public class TargetStateBattleArmyBuilder extends BattleArmyBuilder {

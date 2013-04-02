@@ -26,7 +26,7 @@ import org.risk.view.StartGame;
  * The instance of this class would represent the controller for New Map
  * Verifier Class
  * 
- * @author Arij
+ * 
  * 
  */
 

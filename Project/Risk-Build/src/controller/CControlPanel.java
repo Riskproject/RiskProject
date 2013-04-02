@@ -38,7 +38,7 @@ import org.risk.view.Game;
  * This class helps provide explicit controls of technology, resources and
  * simulation control.
  * 
- * @author Arij
+ * 
  * 
  */
 public class CControlPanel {

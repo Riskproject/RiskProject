@@ -26,7 +26,7 @@ import org.risk.model.Utility.*;
 
 /**
  * The Class act as test suite for all the test classes
- * @author Zhang
+ * 
  */
 
 public class AllTests {

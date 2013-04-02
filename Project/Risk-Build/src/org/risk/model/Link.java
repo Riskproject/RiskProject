@@ -23,7 +23,7 @@ import javax.xml.bind.annotation.XmlType;
 /**
  * An instance of this class represent a connection between two states.
  * 
- * @author Omer
+ * 
  * 
  */
 @XmlType
