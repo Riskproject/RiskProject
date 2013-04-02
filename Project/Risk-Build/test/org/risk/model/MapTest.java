@@ -9,7 +9,7 @@ import org.risk.view.ControlPanel;
 
 /**
  * The test class for Map class which test the MapValidation addState and addContinent method
- *	@author Zhang
+ *	
  */
 public class MapTest extends TestCase {
 
